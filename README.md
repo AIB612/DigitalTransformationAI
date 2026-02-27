@@ -1,4 +1,4 @@
-# 🚀 DigitalTrans
+# 🚀 DigitalTransformationAI
 
 **数字化转型全生命周期管理 | Digital Transformation Lifecycle**
 
@@ -100,7 +100,7 @@ ARIMA, Prophet
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/AIB612/DigitalTrans.git
+git clone https://github.com/AIB612/DigitalTransformationAI.git
 cd DigitalTrans
 
 # 2. 安装依赖
