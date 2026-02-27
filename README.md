@@ -29,6 +29,7 @@
 | **01-供应链管理** | 供应链数据分析与优化 | [→ 进入](./01-supply-chain/) |
 | **02-订单分析** | 电商订单全流程分析 | [→ 进入](./02-order-analysis/) |
 | **03-客户分析** | 客户生命周期价值 CLV | [→ 进入](./03-customer-analytics/) |
+| **04-知识管理** | 企业 RAG 知识库 | [→ 进入](./04-knowledge-management/) |
 
 ---
 
@@ -62,6 +63,15 @@
 | 💰 CLV 计算 | 生命周期价值 | [CLV 基础](./03-customer-analytics/02-clv-basic.ipynb) |
 | 🔮 购买预测 | BG/NBD 模型 | [购买预测](./03-customer-analytics/03-bgnbd-model.ipynb) |
 | 💵 消费预测 | Gamma-Gamma | [消费预测](./03-customer-analytics/04-gamma-gamma.ipynb) |
+
+### 知识管理 Knowledge Management (Wissensmanagement)
+
+| 场景 | 技术 | 文档 |
+|------|------|------|
+| 🧠 RAG 基础 | 检索增强生成 | [RAG 入门](./04-knowledge-management/01-rag-basics.ipynb) |
+| 📄 文档处理 | 分块策略 | [文档处理](./04-knowledge-management/02-document-processing.ipynb) |
+| 🔍 向量检索 | 语义搜索 | [向量检索](./04-knowledge-management/03-vector-search.ipynb) |
+| 🏢 企业知识库 | 完整系统 | [知识库搭建](./04-knowledge-management/04-enterprise-kb.ipynb) |
 
 ---
 
