@@ -17,6 +17,9 @@ scikit-learn>=1.1.0
 # 时间序列
 statsmodels>=0.13.0
 
+# CLV 建模
+lifetimes>=0.11.0
+
 # 优化
 PuLP>=2.7.0
 
